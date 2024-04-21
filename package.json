@@ -1,0 +1,20 @@
+{
+  "name": "auto-generater-route",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/hiiiiiiixiaohui/auto-genurater-route#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiiiiiiixiaohui/auto-genurater-route.git"
+  },
+  "keywords": [
+    "route",
+    "auto generater"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaohui<sunshinehuihui0912@gmail.com>",
+  "license": "MIT"
+}
